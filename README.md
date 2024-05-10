@@ -1,2 +1,14 @@
 # github-final-project
-This is the final project in Git and GitHub IBM course in EdX
+
+## Description
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+### Input
+   p, principal amount
+   
+   t, time period in years
+   
+   r, annual rate of interest
+### Output
+   ```bash
+   simple interest = p*t*r
+  ```
